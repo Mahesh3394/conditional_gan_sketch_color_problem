@@ -1,0 +1,10 @@
+{
+    "Model_params": {
+        "data_path" : "../../data/danbooru-sketch-pair-128x/",
+        "image_shape" : (128,128,3),
+        "n_epoch" =40,
+        "n_batch"=32,
+        "best_generator" : "generator_35.h5"
+        
+    }
+}
